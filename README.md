@@ -34,7 +34,7 @@ AuthUI for login
 <br />
 <br />
 <br />
-![6](https://user-images.githubusercontent.com/68065642/151910791-e2f58611-cd02-4f2e-b3b6-2d797379e4ff.JPG)
+![Capture](https://user-images.githubusercontent.com/68065642/151912918-79e3e3df-6b03-4452-a577-18ae1d4e6989.JPG)
 
 Users added to firebase database after registering through AuthUI
 <br />
