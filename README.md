@@ -3,12 +3,8 @@ An android real-time chat application implemented using firebase.
 
 Code contained in: https://github.com/sprices-exist/Firebase-Chat-App-Final/tree/main/app/src/main/java/com/google/firebase/codelab/friendlychat
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+<p align="center">
 ![1](https://user-images.githubusercontent.com/68065642/151910389-2bf10e9d-23c8-4377-ad10-2042f9854c99.JPG)
 
 Messaging UI
@@ -49,6 +45,9 @@ Users added to firebase database after registering through AuthUI
 <br />
 <br />
 <br />
+ 
+</p>
+
 Realtime database rules on firebase:
 
  {
