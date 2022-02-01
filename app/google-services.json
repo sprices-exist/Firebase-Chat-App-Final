@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "563599070829",
+    "project_id": "chatapp-8a641",
+    "storage_bucket": "chatapp-8a641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563599070829:android:a80edaee3f68e61d7e9164",
+        "android_client_info": {
+          "package_name": "com.example.myapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563599070829-r0iomt28pro8usm9s2anmgto02a9fjui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr7IWoVmmr3awztrebEvJrwL_0teYmtpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563599070829-r0iomt28pro8usm9s2anmgto02a9fjui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563599070829:android:f3d4cc3b63a053b77e9164",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563599070829-r0iomt28pro8usm9s2anmgto02a9fjui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr7IWoVmmr3awztrebEvJrwL_0teYmtpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563599070829-r0iomt28pro8usm9s2anmgto02a9fjui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
