@@ -1,4 +1,4 @@
-# Firebase-Chat-App
+# Firebase-Chat-App-Final
 An android real-time chat application implemented using firebase. 
 
 Code contained in: https://github.com/sprices-exist/Firebase-Chat-App/tree/main/app/src/main/java/com/google/firebase/codelab/friendlychat
